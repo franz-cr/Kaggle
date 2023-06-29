@@ -1,0 +1,12 @@
+# Jupyter Notebooks Checkpoint Folders
+.ipynb_checkpoints/
+
+# Kaggle Digit Recognition Datasets
+Digit_Recognition/*train*.csv
+Digit_Recognition/*test*.csv
+Digit_Recognition/*.zip
+
+# Examples:
+#11-Projects/08-Hackathon/*_train*.csv
+#11-Projects/08-Hackathon/*_test*.csv
+#11-Projects/08-Hackathon/*dataset*.csv
