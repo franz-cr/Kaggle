@@ -1,2 +1,2 @@
 # Kaggle
-Kaggle competitions projects
+# Kaggle public competitions projects
