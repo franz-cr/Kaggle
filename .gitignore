@@ -1,18 +1,12 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Jupyter Notebooks Checkpoint Folders
+.ipynb_checkpoints/
 
-# Other files and folders
-.settings/
+# Kaggle Digit Recognition Datasets
+Digit_Recognition/*train*.csv
+Digit_Recognition/*test*.csv
+Digit_Recognition/*.zip
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Examples:
+#11-Projects/08-Hackathon/*_train*.csv
+#11-Projects/08-Hackathon/*_test*.csv
+#11-Projects/08-Hackathon/*dataset*.csv
